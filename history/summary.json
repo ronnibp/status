@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.phenotrack.com.ico",
     "slug": "pheno-track-api-health",
     "status": "down",
-    "uptime": "1.58%",
-    "uptimeDay": "1.58%",
-    "uptimeWeek": "1.58%",
-    "uptimeMonth": "1.58%",
-    "uptimeYear": "1.58%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {
-      "2026-07-25": 12
+      "2026-07-26": 219,
+      "2026-07-25": 271
     }
   }
 ]
